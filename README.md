@@ -1,15 +1,12 @@
-g# TECHY
+TECHY BLOG
 
 
 ## Table of Contents
 - [Summary](#summary)
-- [Features ](#features)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [Questions](#questions)
 - [License](#license)
 
@@ -77,8 +74,8 @@ use appropriate methods and approriate properties in insomnia
 
 
 
-
 ## Contributors
+
 [April Hunt](https://github.com/April00h)
 
 ## Links 
