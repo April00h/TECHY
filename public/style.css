@@ -1,3 +1,4 @@
+/* Media Queries */
 @media (min-width: 36rem) {
     .bigger-text {
         font-size: 1.6rem;
@@ -20,6 +21,7 @@
     }
 }
 
+/* General Styles */
 .bigger-text {
     font-size: 2rem;
 }
@@ -64,12 +66,14 @@
     min-height: 83vh;
 }
 
+/* Button Styles */
 .btn-add-post,
 .btn-login {
     width: 100%;
     margin-top: 20px;
 }
 
+/* Dashboard Styles */
 .dashboard-nopost {
     margin: auto;
     text-align: center;
@@ -81,6 +85,7 @@
     color: grey;
 }
 
+/* Comment Styles */
 .comment-card {
     margin: 0;
     margin-bottom: 10px;
@@ -108,6 +113,7 @@
     padding: 10px;
 }
 
+/* Miscellaneous Styles */
 .text-right {
     text-align: right;
 }
