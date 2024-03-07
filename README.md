@@ -12,7 +12,7 @@ TECHY BLOG
 
 ### Summary 
 
-The challenge entails constructing a CMS-style blog site akin to WordPress, tailored for developers to publish and engage with technical content. The site, to be deployed on Heroku, will be built from scratch following the MVC architectural pattern, integrating Handlebars.js for templating, Sequelize as the ORM, and the express-session npm package for authentication. Recognizing the significance of written discourse in the tech realm, developers are prompted to leverage this platform for sharing insights, advancements, and tutorials, reflecting the multifaceted nature of their roles beyond coding and debugging.
+The challenge is to create a CMS-style blog platform for developers to share technical content, following the MVC pattern and using technologies like Handlebars.js, Sequelize, and express-session for authentication. The site will be deployed on Heroku, offering developers a space to publish insights, tutorials, and advancements, showcasing their multifaceted roles beyond coding.
 
 
 ## User Story
@@ -79,11 +79,11 @@ use appropriate methods and approriate properties in insomnia
 [April Hunt](https://github.com/April00h)
 
 ## Links 
-* [GitHub Repository](https://)
+* [GitHub Repository](https://github.com/April00h/TECHY.git)
 
 
 ## Questions
-Please reach out with any questions or concerns: [E-mail](mailto:), [E-mail](mailto:aprilhunt00.ah@gmail.com)
+Please reach out with any questions or concerns: [E-mail](mailto:aprilhunt00.ah@gmail.com)
 
 ## License 
 This project is licensed under the MIT License.
